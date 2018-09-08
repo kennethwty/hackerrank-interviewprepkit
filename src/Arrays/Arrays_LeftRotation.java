@@ -19,7 +19,7 @@ import java.util.Scanner;
 
         5 1 2 3 4
  */
-public class Array_LeftRotation {
+public class Arrays_LeftRotation {
     static int[] rotLeft(int[] a, int d) {
         // auxiliary array to be returned
         int[] newArr = new int[a.length];
