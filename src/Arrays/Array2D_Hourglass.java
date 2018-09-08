@@ -23,7 +23,7 @@ import java.util.Scanner;
 
         19
  */
-public class Array2D {
+public class Array2D_Hourglass {
     static int hourglassSum(int[][] arr) {
         int sum;
         int max = Integer.MIN_VALUE;
